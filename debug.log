@@ -1,0 +1,3 @@
+[1022/145008.563:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Julio\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\ae2974d1-6994-4467-aed9-ce088f631f1e: El sistema no puede encontrar la ruta especificada. (0x3)
+[1022/145008.578:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Julio\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\d3bfb62d-ed2f-4428-b05e-309bb64ada6b: El sistema no puede encontrar la ruta especificada. (0x3)
+[1022/145008.578:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
